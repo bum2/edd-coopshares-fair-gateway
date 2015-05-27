@@ -1,0 +1,8 @@
+<wpml-config>
+  <admin-texts>
+    <key name="coopshares_fair_checkout_info" />
+    <key name="coopshares_fair_subject_mail" />
+    <key name="coopshares_fair_body_mail" />
+    </key>
+  </admin-texts>
+</wpml-config>
